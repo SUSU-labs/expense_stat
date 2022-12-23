@@ -11,6 +11,6 @@
 
 Приложение будет написано на архитектуре Model-View-Controller.
 
-## [Процессы](docs/process.md)
+## [Процессы](docs/Process.md)
 
 ## [Команда](docs/team.md)
