@@ -10,3 +10,7 @@
 ## [Архитектура](docs/architecture.md)
 
 Приложение будет написано на архитектуре Model-View-Controller.
+
+## [Процессы](docs/process.md)
+
+## [Команда](docs/team.md)
